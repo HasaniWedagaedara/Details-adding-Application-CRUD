@@ -1,0 +1,17 @@
+folder ekak server kiyla
+eke
+
+npm init
+npm i express mongoose cors
+npm i nodemon
+npm run dev
+
+open new termonal
+npx create-react-app frontend
+cd front end
+npm start
+
+
+
+
+
